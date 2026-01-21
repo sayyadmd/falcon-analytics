@@ -48,14 +48,6 @@ export default function Sidebar() {
           );
         })}
       </nav>
-
-      {/* Footer */}
-      <div className="p-4 border-t border-gray-200">
-        <div className="text-xs text-gray-500">
-          <p className="font-medium text-gray-700">Dr. Rajesh Kumar</p>
-          <p>Physics Faculty</p>
-        </div>
-      </div>
     </div>
   );
 }
